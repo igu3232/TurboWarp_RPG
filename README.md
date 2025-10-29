@@ -1,2 +1,3 @@
 # TurboWarp_RPG
 TurboWarpで作られたRPGのエンジン。
+一部のバージョンでは.sb3形式のコード公開はなく、TurboWarpPackagerを使って作成された.html形式のファイルの公開のみになっています。
